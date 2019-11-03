@@ -1,1 +1,1 @@
-# BDII-Trabajo03-MapeoObjetoRelacional
+# BDII-Laboratorio 07 - DockerBDII
